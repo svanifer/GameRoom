@@ -1,0 +1,1456 @@
+2019-05-14 15:57:45 INFO  Logic:16 - Room is prepering.
+2019-05-19 20:32:57 INFO  Logic:20 - Room is prepering.
+2019-05-19 21:01:33 INFO  Logic:20 - Room is prepering.
+2019-05-19 21:07:09 INFO  Logic:20 - Room is prepering.
+2019-05-19 21:07:48 INFO  Logic:20 - Room is prepering.
+2019-05-19 21:07:48 INFO  RoomWorker:32 - Car{carType=Optional[CAR]}
+2019-05-19 21:07:48 INFO  RoomWorker:32 - Car{dollType=Optional[GIRL]}
+2019-05-19 21:07:48 INFO  RoomWorker:32 - Car{carType=Optional[TRUCK]}
+2019-05-19 21:07:48 INFO  RoomWorker:32 - Car{carType=Optional[BUS]}
+2019-05-19 21:07:48 INFO  RoomWorker:32 - Car{dollType=Optional[GIRL]}
+2019-05-19 21:07:48 INFO  RoomWorker:32 - Car{dollType=Optional[BOY]}
+2019-05-19 21:07:48 INFO  RoomWorker:32 - Cube{color=Optional[RED]}
+2019-05-19 21:07:48 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:13:15 INFO  Logic:20 - Room is prepering.
+2019-05-19 21:13:15 INFO  RoomWorker:32 - Car{carType=CAR} Toy{id=3, name=Optional[Car], size=Optional[big], price=11}
+2019-05-19 21:13:15 INFO  RoomWorker:32 - Car{dollType=Optional[BOY]}
+2019-05-19 21:13:15 INFO  RoomWorker:32 - Car{carType=TRUCK} Toy{id=2, name=Optional[Car], size=Optional[middle], price=9}
+2019-05-19 21:13:15 INFO  RoomWorker:32 - Car{carType=VAN} Toy{id=1, name=Optional[Car], size=Optional[small], price=7}
+2019-05-19 21:13:15 INFO  RoomWorker:32 - Car{dollType=Optional[BOY]}
+2019-05-19 21:13:15 INFO  RoomWorker:32 - Car{dollType=Optional[BABY]}
+2019-05-19 21:13:15 INFO  RoomWorker:32 - Cube{color=Optional[YELLOW]}
+2019-05-19 21:13:15 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:15:41 INFO  Logic:20 - Room is prepering.
+2019-05-19 21:15:41 INFO  RoomWorker:32 - Car{carType=BUS} Toy{id=3, name=Optional[Car], size=Optional[big], price=11}
+2019-05-19 21:15:41 INFO  RoomWorker:32 - Doll{dollType=Optional[BABY]} Toy{id=6, name=Optional[Doll], size=Optional[big], price=9}
+2019-05-19 21:15:41 INFO  RoomWorker:32 - Car{carType=CAR} Toy{id=2, name=Optional[Car], size=Optional[middle], price=9}
+2019-05-19 21:15:41 INFO  RoomWorker:32 - Car{carType=VAN} Toy{id=1, name=Optional[Car], size=Optional[small], price=7}
+2019-05-19 21:15:41 INFO  RoomWorker:32 - Doll{dollType=Optional[BABY]} Toy{id=5, name=Optional[Doll], size=Optional[middle], price=7}
+2019-05-19 21:15:41 INFO  RoomWorker:32 - Doll{dollType=Optional[BOY]} Toy{id=4, name=Optional[Doll], size=Optional[small], price=5}
+2019-05-19 21:15:41 INFO  RoomWorker:32 - Cube{color=RED} Toy{id=7, name=Optional[Cube], size=Optional[small], price=1}
+2019-05-19 21:15:41 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:20:01 INFO  Logic:20 - Room is prepering.
+2019-05-19 21:20:01 INFO  RoomWorker:32 - Toy{id=3, name=Optional[Car], size=Optional[big], price=11}{carType=TRUCK} 
+2019-05-19 21:20:01 INFO  RoomWorker:32 - Doll{dollType=Optional[GIRL]} Toy{id=6, name=Optional[Doll], size=Optional[big], price=9}
+2019-05-19 21:20:01 INFO  RoomWorker:32 - Toy{id=2, name=Optional[Car], size=Optional[middle], price=9}{carType=BUS} 
+2019-05-19 21:20:01 INFO  RoomWorker:32 - Toy{id=1, name=Optional[Car], size=Optional[small], price=7}{carType=BUS} 
+2019-05-19 21:20:01 INFO  RoomWorker:32 - Doll{dollType=Optional[BOY]} Toy{id=5, name=Optional[Doll], size=Optional[middle], price=7}
+2019-05-19 21:20:01 INFO  RoomWorker:32 - Doll{dollType=Optional[GIRL]} Toy{id=4, name=Optional[Doll], size=Optional[small], price=5}
+2019-05-19 21:20:01 INFO  RoomWorker:32 - Cube{color=BLUE} Toy{id=7, name=Optional[Cube], size=Optional[small], price=1}
+2019-05-19 21:20:01 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:20:46 INFO  Logic:20 - Room is prepering.
+2019-05-19 21:20:46 INFO  RoomWorker:32 - Cube{color=BLUE} Toy{id=7, name=Optional[Cube], size=Optional[small], price=1}
+2019-05-19 21:20:46 INFO  RoomWorker:32 - Cube{color=GREEN} Toy{id=8, name=Optional[Cube], size=Optional[small], price=1}
+2019-05-19 21:20:46 INFO  RoomWorker:32 - Doll{dollType=Optional[BABY]} Toy{id=4, name=Optional[Doll], size=Optional[small], price=5}
+2019-05-19 21:20:46 INFO  RoomWorker:32 - Toy{id=1, name=Optional[Car], size=Optional[small], price=7}{carType=BUS} 
+2019-05-19 21:20:46 INFO  RoomWorker:32 - Doll{dollType=Optional[BOY]} Toy{id=5, name=Optional[Doll], size=Optional[middle], price=7}
+2019-05-19 21:20:46 INFO  RoomWorker:32 - Toy{id=2, name=Optional[Car], size=Optional[middle], price=9}{carType=CAR} 
+2019-05-19 21:20:46 INFO  RoomWorker:32 - Doll{dollType=Optional[BOY]} Toy{id=6, name=Optional[Doll], size=Optional[big], price=9}
+2019-05-19 21:20:46 INFO  RoomWorker:32 - Toy{id=3, name=Optional[Car], size=Optional[big], price=11}{carType=VAN} 
+2019-05-19 21:20:46 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:22:47 INFO  Logic:20 - Room is prepering.
+2019-05-19 21:22:47 INFO  RoomWorker:32 - Toy{id=7, name=Optional[Cube], size=Optional[small], price=1}{color=YELLOW}
+2019-05-19 21:22:47 INFO  RoomWorker:32 - Toy{id=8, name=Optional[Cube], size=Optional[small], price=1}{color=YELLOW}
+2019-05-19 21:22:47 INFO  RoomWorker:32 - Toy{id=4, name=Optional[Doll], size=Optional[small], price=5}{dollType=Optional[GIRL]} 
+2019-05-19 21:22:47 INFO  RoomWorker:32 - Toy{id=1, name=Optional[Car], size=Optional[small], price=7}{carType=VAN} 
+2019-05-19 21:22:47 INFO  RoomWorker:32 - Toy{id=5, name=Optional[Doll], size=Optional[middle], price=7}{dollType=Optional[GIRL]} 
+2019-05-19 21:22:47 INFO  RoomWorker:32 - Toy{id=2, name=Optional[Car], size=Optional[middle], price=9}{carType=BUS} 
+2019-05-19 21:22:47 INFO  RoomWorker:32 - Toy{id=6, name=Optional[Doll], size=Optional[big], price=9}{dollType=Optional[BOY]} 
+2019-05-19 21:22:47 INFO  RoomWorker:32 - Toy{id=3, name=Optional[Car], size=Optional[big], price=11}{carType=CAR} 
+2019-05-19 21:22:47 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:26:09 INFO  Logic:20 - Room is prepering.
+2019-05-19 21:26:09 INFO  RoomWorker:32 - Toy{id = 7, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 21:26:09 INFO  RoomWorker:32 - Toy{id = 8, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 21:26:09 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 21:26:09 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR} 
+2019-05-19 21:26:09 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 21:26:09 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = BUS} 
+2019-05-19 21:26:09 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-19 21:26:09 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 21:26:09 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:29:02 INFO  Logic:20 - Room is prepering.
+2019-05-19 21:29:02 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 21:29:02 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 21:29:02 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN}
+2019-05-19 21:29:02 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 21:29:02 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 21:29:02 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = GREEN} 
+2019-05-19 21:29:02 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 21:29:02 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 21:29:02 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR} 
+2019-05-19 21:29:02 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 21:29:02 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 21:29:02 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK} 
+2019-05-19 21:29:02 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BOY} 
+2019-05-19 21:29:02 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 21:29:02 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:29:03 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = GREEN} 
+2019-05-19 21:29:03 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 21:29:03 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 21:29:03 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR} 
+2019-05-19 21:29:03 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK} 
+2019-05-19 21:29:03 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 21:29:03 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 21:29:03 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 21:29:03 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN}
+2019-05-19 21:29:03 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 21:29:03 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 21:29:03 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 21:29:03 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 21:29:03 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BOY} 
+2019-05-19 21:29:03 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:29:54 INFO  Logic:20 - Room is prepering.
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = YELLOW}
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = YELLOW} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR} 
+2019-05-19 21:29:54 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = YELLOW} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = YELLOW}
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-19 21:29:54 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = YELLOW} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = YELLOW}
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 21:29:54 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-19 21:29:54 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:33:43 INFO  Logic:20 - Room is prepering.
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = YELLOW}
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = BUS} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BOY} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 21:33:43 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = BUS} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = YELLOW}
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BOY} 
+2019-05-19 21:33:43 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = YELLOW}
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = BUS} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BOY} 
+2019-05-19 21:33:43 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 21:33:43 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:37:59 INFO  Logic:21 - Room is prepering.
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK} 
+2019-05-19 21:37:59 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-19 21:37:59 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-19 21:37:59 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK} 
+2019-05-19 21:37:59 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:37:59 INFO  RoomWorker:58 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 21:37:59 INFO  RoomWorker:60 - ----------------------------
+2019-05-19 21:38:59 INFO  Logic:22 - Room is prepering.
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = RED}
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS} 
+2019-05-19 21:38:59 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = RED}
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-19 21:38:59 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = RED}
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-19 21:38:59 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS} 
+2019-05-19 21:38:59 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 21:38:59 INFO  RoomWorker:58 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 21:38:59 INFO  RoomWorker:60 - ----------------------------
+2019-05-19 21:38:59 INFO  RoomWorker:49 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 21:38:59 INFO  RoomWorker:49 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY} 
+2019-05-19 21:38:59 INFO  RoomWorker:49 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN} 
+2019-05-19 21:38:59 INFO  RoomWorker:49 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 21:38:59 INFO  RoomWorker:49 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 21:38:59 INFO  RoomWorker:49 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 21:38:59 INFO  RoomWorker:52 - ----------------------------
+2019-05-19 21:39:59 INFO  Logic:22 - Room is prepering.
+2019-05-19 21:39:59 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 21:39:59 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 21:39:59 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:13:52 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:13:52 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:13:52 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:13:52 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:16:19 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:16:19 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:16:19 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:16:19 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:19:19 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:19:19 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:19:19 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:19:20 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:27:52 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:27:52 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:27:52 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:27:52 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:31:53 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN}
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS} 
+2019-05-19 22:31:53 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN}
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:31:53 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN}
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:31:53 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS} 
+2019-05-19 22:31:53 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 22:31:53 ERROR RoomWorker:61 - Toy with that id doesn't exist.
+2019-05-19 22:31:53 INFO  RoomWorker:64 - ----------------------------
+2019-05-19 22:31:53 INFO  RoomWorker:49 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 22:31:53 INFO  RoomWorker:49 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:31:53 INFO  RoomWorker:49 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 22:31:53 INFO  RoomWorker:49 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 22:31:53 INFO  RoomWorker:49 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:31:53 INFO  RoomWorker:49 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-19 22:31:53 INFO  RoomWorker:52 - ----------------------------
+2019-05-19 22:34:06 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 22:34:06 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:34:06 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:34:06 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 22:34:06 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:34:06 INFO  RoomWorker:61 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:34:06 INFO  RoomWorker:66 - ----------------------------
+2019-05-19 22:34:06 INFO  RoomWorker:51 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED} 
+2019-05-19 22:34:06 INFO  RoomWorker:51 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:34:06 INFO  RoomWorker:51 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE} 
+2019-05-19 22:34:06 INFO  RoomWorker:51 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR} 
+2019-05-19 22:34:06 INFO  RoomWorker:51 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:34:06 INFO  RoomWorker:51 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 22:34:06 INFO  RoomWorker:54 - ----------------------------
+2019-05-19 22:34:45 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:34:45 WARN  RoomWorker:28 - You haven't added any toys yet!
+2019-05-19 22:34:45 WARN  RoomWorker:28 - You haven't added any toys yet!
+2019-05-19 22:34:45 WARN  RoomWorker:28 - You haven't added any toys yet!
+2019-05-19 22:40:34 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = YELLOW}
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW} 
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE} 
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE} 
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = BUS} 
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 22:40:34 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW} 
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE} 
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE} 
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = BUS} 
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = YELLOW}
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 22:40:34 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-19 22:40:34 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:40:35 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:40:35 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 22:40:35 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:40:35 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 22:40:35 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = YELLOW}
+2019-05-19 22:40:35 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW} 
+2019-05-19 22:40:35 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 22:40:35 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE} 
+2019-05-19 22:40:35 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 22:40:35 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 22:40:35 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE} 
+2019-05-19 22:40:35 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = BUS} 
+2019-05-19 22:40:35 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-19 22:40:35 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 22:40:35 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:40:35 INFO  RoomWorker:61 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} ]
+2019-05-19 22:40:35 INFO  RoomWorker:66 - ----------------------------
+2019-05-19 22:40:35 INFO  RoomWorker:51 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW} 
+2019-05-19 22:40:35 INFO  RoomWorker:51 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 22:40:35 INFO  RoomWorker:51 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE} 
+2019-05-19 22:40:35 INFO  RoomWorker:51 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 22:40:35 INFO  RoomWorker:51 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 22:40:35 INFO  RoomWorker:51 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE} 
+2019-05-19 22:40:35 INFO  RoomWorker:54 - ----------------------------
+2019-05-19 22:41:01 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:41:01 WARN  RoomWorker:28 - You haven't added any toys yet!
+2019-05-19 22:41:01 WARN  RoomWorker:28 - You haven't added any toys yet!
+2019-05-19 22:41:01 WARN  RoomWorker:28 - You haven't added any toys yet!
+2019-05-19 22:41:01 ERROR RoomWorker:63 - Toy with that id doesn't exist.
+2019-05-19 22:41:01 INFO  RoomWorker:66 - ----------------------------
+2019-05-19 22:41:01 WARN  RoomWorker:45 - You haven't added any toys yet!
+2019-05-19 22:42:16 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN}
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = RED}
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED} 
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR} 
+2019-05-19 22:42:16 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED} 
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR} 
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN}
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = RED}
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:42:16 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:42:16 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:42:17 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 22:42:17 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 22:42:17 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN}
+2019-05-19 22:42:17 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:42:17 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = RED}
+2019-05-19 22:42:17 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED} 
+2019-05-19 22:42:17 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:42:17 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 22:42:17 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 22:42:17 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:42:17 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-19 22:42:17 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 22:42:17 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:42:17 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR} 
+2019-05-19 22:42:17 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:42:17 INFO  RoomWorker:61 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} ]
+2019-05-19 22:42:17 INFO  RoomWorker:66 - ----------------------------
+2019-05-19 22:42:17 INFO  RoomWorker:51 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED} 
+2019-05-19 22:42:17 INFO  RoomWorker:51 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:42:17 INFO  RoomWorker:51 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 22:42:17 INFO  RoomWorker:51 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 22:42:17 INFO  RoomWorker:51 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:42:17 INFO  RoomWorker:51 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-19 22:42:17 INFO  RoomWorker:54 - ----------------------------
+2019-05-19 22:43:08 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:43:08 ERROR DataReader:25 - java.io.FileNotFoundException: source\set.txt (Не удается найти указанный файл)
+2019-05-19 22:43:08 WARN  RoomWorker:28 - You haven't added any toys yet!
+2019-05-19 22:43:08 WARN  RoomWorker:28 - You haven't added any toys yet!
+2019-05-19 22:43:08 WARN  RoomWorker:28 - You haven't added any toys yet!
+2019-05-19 22:43:08 ERROR RoomWorker:63 - Toy with that id doesn't exist.
+2019-05-19 22:43:08 INFO  RoomWorker:66 - ----------------------------
+2019-05-19 22:43:08 WARN  RoomWorker:45 - You haven't added any toys yet!
+2019-05-19 22:43:53 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN}
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BOY} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR} 
+2019-05-19 22:43:53 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN}
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BOY} 
+2019-05-19 22:43:53 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN}
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BOY} 
+2019-05-19 22:43:53 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR} 
+2019-05-19 22:43:53 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:43:53 INFO  RoomWorker:61 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} ]
+2019-05-19 22:43:53 INFO  RoomWorker:66 - ----------------------------
+2019-05-19 22:43:53 INFO  RoomWorker:51 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-19 22:43:53 INFO  RoomWorker:51 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:43:53 INFO  RoomWorker:51 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 22:43:53 INFO  RoomWorker:51 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK} 
+2019-05-19 22:43:53 INFO  RoomWorker:51 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:43:53 INFO  RoomWorker:51 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE} 
+2019-05-19 22:43:53 INFO  RoomWorker:54 - ----------------------------
+2019-05-19 22:44:25 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN}
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = YELLOW}
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = YELLOW} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = BUS} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK} 
+2019-05-19 22:44:25 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = YELLOW} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = BUS} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN}
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = YELLOW}
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:44:25 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN}
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = YELLOW}
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = YELLOW} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = BUS} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:44:25 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK} 
+2019-05-19 22:44:25 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:44:25 INFO  RoomWorker:61 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} ]
+2019-05-19 22:44:25 INFO  RoomWorker:66 - ----------------------------
+2019-05-19 22:44:25 INFO  RoomWorker:51 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:44:25 INFO  RoomWorker:51 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW} 
+2019-05-19 22:44:25 INFO  RoomWorker:51 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR} 
+2019-05-19 22:44:25 INFO  RoomWorker:51 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:44:25 INFO  RoomWorker:51 - Toy{id = 9, name = Ball, size = big, price = 8}{color = YELLOW} 
+2019-05-19 22:44:25 INFO  RoomWorker:54 - ----------------------------
+2019-05-19 22:49:33 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = VAN} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR} 
+2019-05-19 22:49:33 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = VAN} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:49:33 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 13, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = VAN} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:49:33 INFO  RoomWorker:34 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR} 
+2019-05-19 22:49:33 INFO  RoomWorker:37 - ----------------------------
+2019-05-19 22:49:33 INFO  RoomWorker:61 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} ]
+2019-05-19 22:49:33 INFO  RoomWorker:66 - ----------------------------
+2019-05-19 22:49:33 INFO  RoomWorker:51 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:49:33 INFO  RoomWorker:51 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW} 
+2019-05-19 22:49:33 INFO  RoomWorker:51 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 22:49:33 INFO  RoomWorker:51 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-19 22:49:33 INFO  RoomWorker:51 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 22:49:33 INFO  RoomWorker:54 - ----------------------------
+2019-05-19 22:51:31 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = BUS} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 22:51:31 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = BUS} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:51:31 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 13, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 14, name = Cube, size = middle, price = 2}{color = BLUE}
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = big, price = 3}{color = GREEN}
+2019-05-19 22:51:31 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW} 
+2019-05-19 22:51:32 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:51:32 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN} 
+2019-05-19 22:51:32 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK} 
+2019-05-19 22:51:32 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 22:51:32 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 22:51:32 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = BUS} 
+2019-05-19 22:51:32 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:51:32 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 22:51:32 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 22:51:32 INFO  RoomWorker:59 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} ]
+2019-05-19 22:51:32 INFO  RoomWorker:64 - ----------------------------
+2019-05-19 22:51:32 INFO  RoomWorker:49 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY} 
+2019-05-19 22:51:32 INFO  RoomWorker:49 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN} 
+2019-05-19 22:51:32 INFO  RoomWorker:49 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK} 
+2019-05-19 22:51:32 INFO  RoomWorker:49 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 22:51:32 INFO  RoomWorker:49 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED} 
+2019-05-19 22:51:32 INFO  RoomWorker:52 - ----------------------------
+2019-05-19 22:53:29 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:53:29 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:53:29 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:53:29 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:53:29 ERROR RoomWorker:61 - Toy with that id doesn't exist.
+2019-05-19 22:53:29 INFO  RoomWorker:64 - ----------------------------
+2019-05-19 22:53:29 WARN  RoomWorker:43 - You haven't added any toys yet!
+2019-05-19 22:53:54 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = YELLOW} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 22:53:54 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = YELLOW} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:53:54 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = YELLOW} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:53:54 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS} 
+2019-05-19 22:53:54 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 22:53:54 INFO  RoomWorker:59 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} ]
+2019-05-19 22:53:54 INFO  RoomWorker:64 - ----------------------------
+2019-05-19 22:53:54 INFO  RoomWorker:49 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 22:53:54 INFO  RoomWorker:49 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW} 
+2019-05-19 22:53:54 INFO  RoomWorker:49 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUS} 
+2019-05-19 22:53:54 INFO  RoomWorker:49 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 22:53:54 INFO  RoomWorker:49 - Toy{id = 9, name = Ball, size = big, price = 8}{color = YELLOW} 
+2019-05-19 22:53:54 INFO  RoomWorker:52 - ----------------------------
+2019-05-19 22:56:33 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:56:33 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:56:33 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:56:33 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS} 
+2019-05-19 22:56:33 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 22:56:33 INFO  RoomWorker:59 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} ]
+2019-05-19 22:56:33 INFO  RoomWorker:64 - ----------------------------
+2019-05-19 22:56:33 INFO  RoomWorker:49 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 22:56:33 INFO  RoomWorker:49 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE} 
+2019-05-19 22:56:33 INFO  RoomWorker:49 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK} 
+2019-05-19 22:56:33 INFO  RoomWorker:49 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 22:56:33 INFO  RoomWorker:49 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE} 
+2019-05-19 22:56:33 INFO  RoomWorker:52 - ----------------------------
+2019-05-19 22:56:54 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:56:54 ERROR DataReader:25 - java.io.FileNotFoundException: source\set.txt (Не удается найти указанный файл)
+2019-05-19 22:56:54 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:56:54 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:56:54 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 22:56:54 ERROR RoomWorker:61 - Toy with that id doesn't exist.
+2019-05-19 22:56:54 INFO  RoomWorker:64 - ----------------------------
+2019-05-19 22:56:54 WARN  RoomWorker:43 - You haven't added any toys yet!
+2019-05-19 22:58:43 INFO  Logic:22 - Room is prepering.
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = GREEN} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:58:43 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = GREEN} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 22:58:43 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:58:43 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 22:58:44 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED}
+2019-05-19 22:58:44 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 22:58:44 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW}
+2019-05-19 22:58:44 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = GREEN} 
+2019-05-19 22:58:44 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 22:58:44 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 22:58:44 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 22:58:44 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 22:58:44 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-19 22:58:44 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK} 
+2019-05-19 22:58:44 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-19 22:58:44 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VAN} 
+2019-05-19 22:58:44 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 22:58:44 INFO  RoomWorker:59 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} ]
+2019-05-19 22:58:44 INFO  RoomWorker:64 - ----------------------------
+2019-05-19 22:58:44 INFO  RoomWorker:49 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-19 22:58:44 INFO  RoomWorker:49 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED} 
+2019-05-19 22:58:44 INFO  RoomWorker:49 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 22:58:44 INFO  RoomWorker:49 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-19 22:58:44 INFO  RoomWorker:49 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-19 22:58:44 INFO  RoomWorker:52 - ----------------------------
+2019-05-19 23:01:55 INFO  Logic:22 - Room is prepering.
+2019-05-19 23:01:55 ERROR ArrayConverter:22 - File with data was empty.
+2019-05-19 23:01:55 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 23:01:55 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 23:01:55 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 23:01:55 ERROR RoomWorker:61 - Toy with that id doesn't exist.
+2019-05-19 23:01:55 INFO  RoomWorker:64 - ----------------------------
+2019-05-19 23:01:55 WARN  RoomWorker:43 - You haven't added any toys yet!
+2019-05-19 23:06:47 INFO  Logic:22 - Room is prepering.
+2019-05-19 23:06:47 ERROR ArrayConverter:22 - Array from DataReader was empty.
+2019-05-19 23:06:47 ERROR Creator:21 - List from ArrayConverter was empty.
+2019-05-19 23:06:47 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 23:06:47 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 23:06:47 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-19 23:06:47 ERROR RoomWorker:61 - Toy with that id doesn't exist.
+2019-05-19 23:06:47 INFO  RoomWorker:64 - ----------------------------
+2019-05-19 23:06:47 WARN  RoomWorker:43 - You haven't added any toys yet!
+2019-05-19 23:07:10 INFO  Logic:22 - Room is prepering.
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = GREEN} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 23:07:10 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = GREEN} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-19 23:07:10 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = GREEN} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-19 23:07:10 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK} 
+2019-05-19 23:07:10 INFO  RoomWorker:35 - ----------------------------
+2019-05-19 23:07:10 INFO  RoomWorker:59 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} ]
+2019-05-19 23:07:10 INFO  RoomWorker:64 - ----------------------------
+2019-05-19 23:07:10 INFO  RoomWorker:49 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY} 
+2019-05-19 23:07:10 INFO  RoomWorker:49 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW} 
+2019-05-19 23:07:10 INFO  RoomWorker:49 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-19 23:07:10 INFO  RoomWorker:49 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL} 
+2019-05-19 23:07:10 INFO  RoomWorker:49 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE} 
+2019-05-19 23:07:10 INFO  RoomWorker:52 - ----------------------------
+2019-05-20 22:27:48 INFO  Logic:22 - Room is prepering.
+2019-05-20 22:27:48 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK} 
+2019-05-20 22:27:48 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-20 22:27:49 INFO  RoomWorker:35 - ----------------------------
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-20 22:27:49 INFO  RoomWorker:35 - ----------------------------
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW}
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY} 
+2019-05-20 22:27:49 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK} 
+2019-05-20 22:27:49 INFO  RoomWorker:35 - ----------------------------
+2019-05-20 22:27:49 INFO  RoomWorker:59 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} ]
+2019-05-20 22:27:49 INFO  RoomWorker:64 - ----------------------------
+2019-05-20 22:27:49 INFO  RoomWorker:49 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-20 22:27:49 INFO  RoomWorker:49 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN} 
+2019-05-20 22:27:49 INFO  RoomWorker:49 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK} 
+2019-05-20 22:27:49 INFO  RoomWorker:49 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY} 
+2019-05-20 22:27:49 INFO  RoomWorker:49 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-20 22:27:49 INFO  RoomWorker:52 - ----------------------------
+2019-05-21 19:11:45 ERROR DataReader:25 - java.io.FileNotFoundException: source\st.txt (Не удается найти указанный файл)
+2019-05-21 19:14:07 ERROR DataReader:25 - java.io.FileNotFoundException: source\st.txt (Не удается найти указанный файл)
+2019-05-21 19:15:01 ERROR DataReader:25 - java.io.FileNotFoundException: source\s.txt (Не удается найти указанный файл)
+2019-05-21 19:21:03 ERROR DataReader:25 - java.io.FileNotFoundException: source\s.txt (Не удается найти указанный файл)
+2019-05-21 19:27:27 ERROR DataReader:25 - java.io.FileNotFoundException: source\s.txt (Не удается найти указанный файл)
+2019-05-21 19:34:51 ERROR DataReader:25 - java.io.FileNotFoundException: source\s.txt (Не удается найти указанный файл)
+2019-05-21 19:36:34 INFO  Logic:23 - Room is prepering.
+2019-05-21 19:36:34 ERROR DataReader:25 - java.io.FileNotFoundException: source\et.txt (Не удается найти указанный файл)
+2019-05-21 19:36:34 ERROR ArrayConverter:22 - Array from DataReader was empty.
+2019-05-21 19:36:34 ERROR Creator:21 - List from ArrayConverter was empty.
+2019-05-21 19:36:34 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-21 19:36:34 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-21 19:36:35 WARN  RoomWorker:26 - You haven't added any toys yet!
+2019-05-21 19:36:35 ERROR RoomWorker:61 - Toy with that id doesn't exist.
+2019-05-21 19:36:35 INFO  RoomWorker:64 - ----------------------------
+2019-05-21 19:36:35 WARN  RoomWorker:43 - You haven't added any toys yet!
+2019-05-21 19:40:14 ERROR DataReader:25 - java.io.FileNotFoundException: source\s.txt (Не удается найти указанный файл)
+2019-05-23 14:03:02 ERROR DataReader:25 - java.io.FileNotFoundException: source\s.txt (Не удается найти указанный файл)
+2019-05-23 14:07:16 ERROR DataReader:25 - java.io.FileNotFoundException: source\s.txt (Не удается найти указанный файл)
+2019-05-23 14:08:12 ERROR DataReader:25 - java.io.FileNotFoundException: source\s.txt (Не удается найти указанный файл)
+2019-05-23 14:15:59 INFO  Logic:23 - Room is prepering.
+2019-05-23 14:26:08 ERROR ArrayConverter:20 - Array from DataReader was empty.
+2019-05-23 14:31:15 ERROR ArrayConverter:20 - Array from DataReader was empty.
+2019-05-23 14:41:40 INFO  Logic:22 - Room is prepering.
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = VAN} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-23 14:41:41 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = VAN} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-23 14:41:41 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = GREEN}
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = BLUE}
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = RED}
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = VAN} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL} 
+2019-05-23 14:41:41 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR} 
+2019-05-23 14:41:41 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 14:41:41 INFO  RoomWorker:59 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} ]
+2019-05-23 14:41:41 INFO  RoomWorker:64 - ----------------------------
+2019-05-23 14:41:41 INFO  RoomWorker:49 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL} 
+2019-05-23 14:41:41 INFO  RoomWorker:49 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN} 
+2019-05-23 14:41:41 INFO  RoomWorker:49 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN} 
+2019-05-23 14:41:41 INFO  RoomWorker:49 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY} 
+2019-05-23 14:41:41 INFO  RoomWorker:49 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN} 
+2019-05-23 14:41:41 INFO  RoomWorker:52 - ----------------------------
+2019-05-23 19:02:52 ERROR Creator:21 - List from ArrayConverter was empty.
+2019-05-23 19:37:21 ERROR Creator:22 - List from ArrayConverter was empty.
+2019-05-23 19:37:39 ERROR Creator:22 - List from ArrayConverter was empty.
+2019-05-23 19:39:34 ERROR Creator:22 - List from ArrayConverter was empty.
+2019-05-23 21:20:54 INFO  Logic:22 - Room is prepering.
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUSisCollection = false} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = VANisCollection = false} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VANisCollection = true} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOYbrand = lol} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOYbrand = lol} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRLbrand = lol} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUEsign = select} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = REDsign = select} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREENsign = select} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = REDmaterial = fabric}
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = REDmaterial = fabric}
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOWmaterial = fabric}
+2019-05-23 21:20:54 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUEsign = select} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = REDsign = select} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREENsign = select} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUSisCollection = false} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = VANisCollection = false} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VANisCollection = true} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = REDmaterial = fabric}
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = REDmaterial = fabric}
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOWmaterial = fabric}
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOYbrand = lol} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOYbrand = lol} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRLbrand = lol} 
+2019-05-23 21:20:54 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = REDmaterial = fabric}
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOWmaterial = fabric}
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = REDmaterial = fabric}
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUEsign = select} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOYbrand = lol} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = REDsign = select} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUSisCollection = false} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOYbrand = lol} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREENsign = select} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = VANisCollection = false} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRLbrand = lol} 
+2019-05-23 21:20:54 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = VANisCollection = true} 
+2019-05-23 21:20:54 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 21:20:54 INFO  RoomWorker:59 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOYbrand = lol} ]
+2019-05-23 21:20:54 INFO  RoomWorker:64 - ----------------------------
+2019-05-23 21:20:54 INFO  RoomWorker:49 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOYbrand = lol} 
+2019-05-23 21:20:54 INFO  RoomWorker:49 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = REDsign = select} 
+2019-05-23 21:20:54 INFO  RoomWorker:49 - Toy{id = 1, name = Car, size = small, price = 7}{carType = BUSisCollection = false} 
+2019-05-23 21:20:54 INFO  RoomWorker:49 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOYbrand = lol} 
+2019-05-23 21:20:54 INFO  RoomWorker:49 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREENsign = select} 
+2019-05-23 21:20:54 INFO  RoomWorker:52 - ----------------------------
+2019-05-23 21:22:50 INFO  Logic:22 - Room is prepering.
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR, isCollection = true} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR, isCollection = false} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK, isCollection = true} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY, brand = lol} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY, brand = lol} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL, brand = lol} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE, sign = select} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN, sign = select} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE, sign = select} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW, material = fabric}
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW, material = fabric}
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = GREEN, material = fabric}
+2019-05-23 21:22:50 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE, sign = select} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN, sign = select} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE, sign = select} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR, isCollection = true} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR, isCollection = false} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK, isCollection = true} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW, material = fabric}
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW, material = fabric}
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = GREEN, material = fabric}
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY, brand = lol} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY, brand = lol} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL, brand = lol} 
+2019-05-23 21:22:50 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW, material = fabric}
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = GREEN, material = fabric}
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW, material = fabric}
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = BLUE, sign = select} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY, brand = lol} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN, sign = select} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR, isCollection = true} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY, brand = lol} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE, sign = select} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = CAR, isCollection = false} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL, brand = lol} 
+2019-05-23 21:22:50 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK, isCollection = true} 
+2019-05-23 21:22:50 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 21:22:50 INFO  RoomWorker:59 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY, brand = lol} ]
+2019-05-23 21:22:50 INFO  RoomWorker:64 - ----------------------------
+2019-05-23 21:22:50 INFO  RoomWorker:49 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY, brand = lol} 
+2019-05-23 21:22:50 INFO  RoomWorker:49 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = GREEN, sign = select} 
+2019-05-23 21:22:50 INFO  RoomWorker:49 - Toy{id = 1, name = Car, size = small, price = 7}{carType = CAR, isCollection = true} 
+2019-05-23 21:22:50 INFO  RoomWorker:49 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY, brand = lol} 
+2019-05-23 21:22:50 INFO  RoomWorker:49 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE, sign = select} 
+2019-05-23 21:22:50 INFO  RoomWorker:52 - ----------------------------
+2019-05-23 22:18:21 INFO  Logic:22 - Room is prepering.
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN, isCollection = false} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = BUS, isCollection = false} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS, isCollection = false} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL, brand = lol} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL, brand = lol} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY, brand = lol} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED, sign = select} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW, sign = select} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN, sign = select} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE, material = fabric}
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW, material = fabric}
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = GREEN, material = fabric}
+2019-05-23 22:18:22 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED, sign = select} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW, sign = select} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN, sign = select} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN, isCollection = false} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = BUS, isCollection = false} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS, isCollection = false} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE, material = fabric}
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW, material = fabric}
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = GREEN, material = fabric}
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL, brand = lol} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL, brand = lol} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY, brand = lol} 
+2019-05-23 22:18:22 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE, material = fabric}
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = GREEN, material = fabric}
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW, material = fabric}
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED, sign = select} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL, brand = lol} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW, sign = select} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN, isCollection = false} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL, brand = lol} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN, sign = select} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = BUS, isCollection = false} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = BABY, brand = lol} 
+2019-05-23 22:18:22 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS, isCollection = false} 
+2019-05-23 22:18:22 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 22:18:22 INFO  RoomWorker:59 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL, brand = lol} ]
+2019-05-23 22:18:22 INFO  RoomWorker:64 - ----------------------------
+2019-05-23 22:18:22 INFO  RoomWorker:49 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL, brand = lol} 
+2019-05-23 22:18:22 INFO  RoomWorker:49 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW, sign = select} 
+2019-05-23 22:18:22 INFO  RoomWorker:49 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN, isCollection = false} 
+2019-05-23 22:18:22 INFO  RoomWorker:49 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL, brand = lol} 
+2019-05-23 22:18:22 INFO  RoomWorker:49 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN, sign = select} 
+2019-05-23 22:18:22 INFO  RoomWorker:52 - ----------------------------
+2019-05-23 22:18:50 INFO  Logic:22 - Room is prepering.
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN, isCollection = true} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = VAN, isCollection = true} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS, isCollection = true} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY, brand = lol} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY, brand = lol} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL, brand = lol} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED, sign = select} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE, sign = select} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE, sign = select} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED, material = fabric}
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW, material = fabric}
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOW, material = fabric}
+2019-05-23 22:18:50 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED, sign = select} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE, sign = select} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE, sign = select} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN, isCollection = true} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = VAN, isCollection = true} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS, isCollection = true} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED, material = fabric}
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW, material = fabric}
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOW, material = fabric}
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY, brand = lol} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY, brand = lol} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL, brand = lol} 
+2019-05-23 22:18:50 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = RED, material = fabric}
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOW, material = fabric}
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW, material = fabric}
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = RED, sign = select} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY, brand = lol} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE, sign = select} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN, isCollection = true} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY, brand = lol} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE, sign = select} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = VAN, isCollection = true} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL, brand = lol} 
+2019-05-23 22:18:50 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = BUS, isCollection = true} 
+2019-05-23 22:18:50 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 22:18:50 INFO  RoomWorker:59 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY, brand = lol} ]
+2019-05-23 22:18:50 INFO  RoomWorker:64 - ----------------------------
+2019-05-23 22:18:50 INFO  RoomWorker:49 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY, brand = lol} 
+2019-05-23 22:18:50 INFO  RoomWorker:49 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE, sign = select} 
+2019-05-23 22:18:50 INFO  RoomWorker:49 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN, isCollection = true} 
+2019-05-23 22:18:50 INFO  RoomWorker:49 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BOY, brand = lol} 
+2019-05-23 22:18:50 INFO  RoomWorker:49 - Toy{id = 9, name = Ball, size = big, price = 8}{color = BLUE, sign = select} 
+2019-05-23 22:18:50 INFO  RoomWorker:52 - ----------------------------
+2019-05-23 22:19:06 INFO  Logic:22 - Room is prepering.
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN, isCollection = true} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK, isCollection = true} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK, isCollection = false} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY, brand = lol} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY, brand = lol} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL, brand = lol} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW, sign = select} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED, sign = select} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED, sign = select} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE, material = fabric}
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW, material = fabric}
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = BLUE, material = fabric}
+2019-05-23 22:19:06 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW, sign = select} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED, sign = select} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED, sign = select} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN, isCollection = true} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK, isCollection = true} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK, isCollection = false} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE, material = fabric}
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW, material = fabric}
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = BLUE, material = fabric}
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY, brand = lol} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY, brand = lol} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL, brand = lol} 
+2019-05-23 22:19:06 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE, material = fabric}
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = BLUE, material = fabric}
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW, material = fabric}
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW, sign = select} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY, brand = lol} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED, sign = select} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN, isCollection = true} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY, brand = lol} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED, sign = select} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK, isCollection = true} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL, brand = lol} 
+2019-05-23 22:19:06 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = TRUCK, isCollection = false} 
+2019-05-23 22:19:06 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 22:19:06 INFO  RoomWorker:59 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY, brand = lol} ]
+2019-05-23 22:19:06 INFO  RoomWorker:64 - ----------------------------
+2019-05-23 22:19:06 INFO  RoomWorker:49 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BOY, brand = lol} 
+2019-05-23 22:19:06 INFO  RoomWorker:49 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = RED, sign = select} 
+2019-05-23 22:19:06 INFO  RoomWorker:49 - Toy{id = 1, name = Car, size = small, price = 7}{carType = VAN, isCollection = true} 
+2019-05-23 22:19:06 INFO  RoomWorker:49 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = BABY, brand = lol} 
+2019-05-23 22:19:06 INFO  RoomWorker:49 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED, sign = select} 
+2019-05-23 22:19:06 INFO  RoomWorker:52 - ----------------------------
+2019-05-23 22:26:01 INFO  Logic:22 - Room is prepering.
+2019-05-23 22:26:52 INFO  Logic:22 - Room is prepering.
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK, isCollection = false} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = VAN, isCollection = false} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR, isCollection = false} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY, brand = baby born} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL, brand = lol} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL, brand = lol} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW, sign = nike} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW, sign = adidas} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN, sign = nike} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE, material = leather}
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW, material = plastic}
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = RED, material = leather}
+2019-05-23 22:26:52 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW, sign = nike} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW, sign = adidas} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN, sign = nike} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK, isCollection = false} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = VAN, isCollection = false} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR, isCollection = false} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE, material = leather}
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW, material = plastic}
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = RED, material = leather}
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY, brand = baby born} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL, brand = lol} 
+2019-05-23 22:26:52 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL, brand = lol} 
+2019-05-23 22:26:52 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 22:26:53 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = BLUE, material = leather}
+2019-05-23 22:26:53 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = RED, material = leather}
+2019-05-23 22:26:53 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = YELLOW, material = plastic}
+2019-05-23 22:26:53 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = YELLOW, sign = nike} 
+2019-05-23 22:26:53 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY, brand = baby born} 
+2019-05-23 22:26:53 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW, sign = adidas} 
+2019-05-23 22:26:53 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK, isCollection = false} 
+2019-05-23 22:26:53 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL, brand = lol} 
+2019-05-23 22:26:53 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN, sign = nike} 
+2019-05-23 22:26:53 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = VAN, isCollection = false} 
+2019-05-23 22:26:53 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL, brand = lol} 
+2019-05-23 22:26:53 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR, isCollection = false} 
+2019-05-23 22:26:53 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 22:26:53 INFO  RoomWorker:59 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL, brand = lol} ]
+2019-05-23 22:26:53 INFO  RoomWorker:64 - ----------------------------
+2019-05-23 22:26:53 INFO  RoomWorker:49 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = BABY, brand = baby born} 
+2019-05-23 22:26:53 INFO  RoomWorker:49 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = YELLOW, sign = adidas} 
+2019-05-23 22:26:53 INFO  RoomWorker:49 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK, isCollection = false} 
+2019-05-23 22:26:53 INFO  RoomWorker:49 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL, brand = lol} 
+2019-05-23 22:26:53 INFO  RoomWorker:49 - Toy{id = 9, name = Ball, size = big, price = 8}{color = GREEN, sign = nike} 
+2019-05-23 22:26:53 INFO  RoomWorker:52 - ----------------------------
+2019-05-23 22:27:33 INFO  Logic:22 - Room is prepering.
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK, isCollection = true} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK, isCollection = false} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR, isCollection = true} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL, brand = lol} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL, brand = baby born} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL, brand = lol} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = GREEN, sign = adidas} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE, sign = select} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED, sign = select} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW, material = fabric}
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN, material = leather}
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOW, material = leather}
+2019-05-23 22:27:33 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = GREEN, sign = adidas} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE, sign = select} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED, sign = select} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK, isCollection = true} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK, isCollection = false} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR, isCollection = true} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW, material = fabric}
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN, material = leather}
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOW, material = leather}
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL, brand = lol} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL, brand = baby born} 
+2019-05-23 22:27:33 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL, brand = lol} 
+2019-05-23 22:27:33 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 22:27:34 INFO  RoomWorker:32 - Toy{id = 10, name = Cube, size = small, price = 1}{color = YELLOW, material = fabric}
+2019-05-23 22:27:34 INFO  RoomWorker:32 - Toy{id = 12, name = Cube, size = small, price = 1}{color = YELLOW, material = leather}
+2019-05-23 22:27:34 INFO  RoomWorker:32 - Toy{id = 11, name = Cube, size = middle, price = 2}{color = GREEN, material = leather}
+2019-05-23 22:27:34 INFO  RoomWorker:32 - Toy{id = 7, name = Ball, size = small, price = 4}{color = GREEN, sign = adidas} 
+2019-05-23 22:27:34 INFO  RoomWorker:32 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL, brand = lol} 
+2019-05-23 22:27:34 INFO  RoomWorker:32 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE, sign = select} 
+2019-05-23 22:27:34 INFO  RoomWorker:32 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK, isCollection = true} 
+2019-05-23 22:27:34 INFO  RoomWorker:32 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL, brand = baby born} 
+2019-05-23 22:27:34 INFO  RoomWorker:32 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED, sign = select} 
+2019-05-23 22:27:34 INFO  RoomWorker:32 - Toy{id = 2, name = Car, size = middle, price = 9}{carType = TRUCK, isCollection = false} 
+2019-05-23 22:27:34 INFO  RoomWorker:32 - Toy{id = 6, name = Doll, size = big, price = 9}{dollType = GIRL, brand = lol} 
+2019-05-23 22:27:34 INFO  RoomWorker:32 - Toy{id = 3, name = Car, size = big, price = 11}{carType = CAR, isCollection = true} 
+2019-05-23 22:27:34 INFO  RoomWorker:35 - ----------------------------
+2019-05-23 22:27:34 INFO  RoomWorker:59 - Optional[Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL, brand = baby born} ]
+2019-05-23 22:27:34 INFO  RoomWorker:64 - ----------------------------
+2019-05-23 22:27:34 INFO  RoomWorker:49 - Toy{id = 4, name = Doll, size = small, price = 5}{dollType = GIRL, brand = lol} 
+2019-05-23 22:27:34 INFO  RoomWorker:49 - Toy{id = 8, name = Ball, size = middle, price = 6}{color = BLUE, sign = select} 
+2019-05-23 22:27:34 INFO  RoomWorker:49 - Toy{id = 1, name = Car, size = small, price = 7}{carType = TRUCK, isCollection = true} 
+2019-05-23 22:27:34 INFO  RoomWorker:49 - Toy{id = 5, name = Doll, size = middle, price = 7}{dollType = GIRL, brand = baby born} 
+2019-05-23 22:27:34 INFO  RoomWorker:49 - Toy{id = 9, name = Ball, size = big, price = 8}{color = RED, sign = select} 
+2019-05-23 22:27:34 INFO  RoomWorker:52 - ----------------------------

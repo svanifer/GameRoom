@@ -1,0 +1,14 @@
+Car small 7
+Car middle 9
+Car big 11
+Doll small 5
+doll 5 0.21
+Doll middle 7
+Doll big 9
+Ball small 4
+Ball middle 6
+Ball big 8
+Cube small 1
+Cube middle 2
+Cube big 3
+fghj
